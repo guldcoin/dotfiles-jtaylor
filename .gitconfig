@@ -1,0 +1,10 @@
+[user]
+	username = jtaylor
+	name = Jeff Taylor
+	location = washington, dc
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = jtaylor
+	github = jtaylor
+	dns = lookupmore.com
